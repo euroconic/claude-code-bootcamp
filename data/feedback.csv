@@ -1,0 +1,152 @@
+id,date,source,segment,company,plan,type,nps_rating,churned,feedback
+1062,2026-01-02,Email,Startup,Cendar,Free,feature_request,5,no,A shareable read-only summary link would be huge for exec buy-in.
+1072,2026-01-02,Sales Call,Startup,Hearth,Pro,feature_request,6,no,Add scheduled email digests for stakeholders who won't log in.
+1090,2026-01-05,Email,Enterprise,Brightloop,Starter,complaint,5,no,Why does it take so long to get value? I connected nothing useful in the first session.
+1005,2026-01-08,App Store,Startup,Hearth,Starter,bug,4,no,"Mobile is basically unusable, I only check it on desktop now."
+1053,2026-01-09,App Store,SMB,Vellum,Business,bug,6,no,App is painfully slow when I have more than a few hundred tickets loaded.
+1020,2026-01-13,App Store,SMB,Querio,Business,praise,10,no,Surfaced an onboarding problem we had no idea was so big. Worth it for that alone.
+1095,2026-01-15,Sales Call,SMB,Hearth,Pro,feature_request,5,no,Add scheduled email digests for stakeholders who won't log in.
+1054,2026-01-16,Email,Mid-Market,Mapleworks,Starter,praise,10,no,"Finally I can see all our feedback in one place, game changer for our planning."
+1050,2026-01-17,Email,Mid-Market,Tilo,Pro,feature_request,7,no,Can you add an export to PDF for the leadership summary?
+1105,2026-01-19,Email,Enterprise,Cendar,Pro,complaint,5,yes,Too expensive for what it does at our size.
+1110,2026-01-20,Email,SMB,Otterly,Free,bug,4,no,"The mobile app barely works, charts don't render."
+1117,2026-01-22,Zendesk,Startup,Wavelet,Pro,bug,2,no,Dashboard takes 30+ seconds to load every morning.
+1059,2026-01-24,App Store,SMB,Otterly,Starter,praise,8,no,"Finally I can see all our feedback in one place, game changer for our planning."
+1091,2026-01-24,NPS Survey,Enterprise,Lumen Labs,Business,complaint,3,yes,Can't justify the cost to my founders for a tool only I use.
+1030,2026-01-25,Zendesk,Mid-Market,Vellum,Business,feature_request,5,no,No Salesforce connector is a dealbreaker for us.
+1133,2026-01-25,Email,Startup,Karbon,Starter,feature_request,5,no,A shareable read-only summary link would be huge for exec buy-in.
+1064,2026-01-27,Zendesk,SMB,Pinewood,Business,complaint,1,yes,Why does it take so long to get value? I connected nothing useful in the first session.
+1102,2026-01-27,Slack,Mid-Market,Querio,Pro,complaint,4,no,Hard to trust the prioritization when I can't see how it was calculated.
+1120,2026-02-04,Slack,Startup,Cendar,Starter,feature_request,6,no,"Please add a Zendesk integration, that is where all our tickets live."
+1106,2026-02-05,Email,Startup,Tessera,Starter,complaint,3,yes,We churned because the price doubled at renewal with no warning.
+1142,2026-02-05,Slack,SMB,Junip,Pro,complaint,1,yes,Can't justify the cost to my founders for a tool only I use.
+1097,2026-02-06,Zendesk,SMB,Wavelet,Pro,complaint,3,yes,Spent an hour just trying to understand where to start.
+1138,2026-02-06,Zendesk,Mid-Market,Acme Robotics,Business,complaint,4,no,Onboarding needs serious work. My team gave up before seeing any insights.
+1060,2026-02-07,Slack,Startup,Querio,Pro,complaint,4,no,Onboarding needs serious work. My team gave up before seeing any insights.
+1045,2026-02-08,App Store,Mid-Market,Driftwave,Free,praise,9,no,Surfaced an onboarding problem we had no idea was so big. Worth it for that alone.
+1047,2026-02-10,Zendesk,Mid-Market,Karbon,Pro,question,8,no,Does the data stay in the EU? Compliance is asking.
+1061,2026-02-10,Zendesk,Mid-Market,Sandbar,Business,question,8,no,Is there a way to tag feedback manually to correct a theme?
+1119,2026-02-11,Sales Call,Startup,Wavelet,Free,feature_request,8,no,No Salesforce connector is a dealbreaker for us.
+1001,2026-02-13,Zendesk,Enterprise,Karbon,Pro,complaint,1,yes,Can't justify the cost to my founders for a tool only I use.
+1014,2026-02-14,Zendesk,Mid-Market,Mapleworks,Business,bug,3,no,It crashed twice while generating my weekly report.
+1071,2026-02-14,Zendesk,Mid-Market,Junip,Pro,complaint,5,no,The jump from Starter to Pro is way too steep.
+1087,2026-02-15,Slack,Mid-Market,Sandbar,Pro,complaint,4,no,Can't justify the cost to my founders for a tool only I use.
+1011,2026-02-18,Zendesk,Startup,Sandbar,Pro,complaint,1,no,Can't justify the cost to my founders for a tool only I use.
+1130,2026-02-18,Zendesk,Startup,Karbon,Starter,complaint,1,no,"Per-seat pricing kills it for us, only one person needs to log in but everyone wants the summary."
+1044,2026-02-21,Zendesk,Startup,Northwind,Business,complaint,4,yes,I never finished onboarding. Got stuck on the integration step and moved on.
+1008,2026-02-22,Email,Startup,Tessera,Pro,complaint,3,no,Need to be able to click into a theme and verify the source feedback.
+1027,2026-02-22,App Store,SMB,Vellum,Pro,bug,6,no,"Mobile is basically unusable, I only check it on desktop now."
+1088,2026-02-23,NPS Survey,SMB,Karbon,Business,complaint,4,no,"Accuracy is hit or miss, I have to double check everything."
+1141,2026-02-25,Sales Call,Startup,Querio,Free,feature_request,8,no,Add Intercom integration and we'd switch tomorrow.
+1065,2026-02-26,Email,SMB,Acme Robotics,Free,praise,10,no,My founders actually trust the roadmap now because it's backed by data.
+1118,2026-02-26,Email,Enterprise,Finch,Free,bug,2,no,It crashed twice while generating my weekly report.
+1031,2026-02-28,Zendesk,Startup,Cobalt,Free,complaint,5,no,"Accuracy is hit or miss, I have to double check everything."
+1108,2026-02-28,Zendesk,Mid-Market,Junip,Free,feature_request,7,no,No Salesforce connector is a dealbreaker for us.
+1115,2026-02-28,Email,Startup,Brightloop,Starter,feature_request,7,no,Needs to pull from app store reviews automatically.
+1009,2026-03-02,Slack,SMB,Otterly,Starter,feature_request,5,no,Needs to pull from app store reviews automatically.
+1019,2026-03-02,Slack,Startup,Wavelet,Business,feature_request,7,no,"Please add a Zendesk integration, that is where all our tickets live."
+1116,2026-03-02,Zendesk,Enterprise,Querio,Business,feature_request,7,no,No Salesforce connector is a dealbreaker for us.
+1121,2026-03-02,Zendesk,Startup,Lumen Labs,Free,bug,3,no,It crashed twice while generating my weekly report.
+1143,2026-03-03,App Store,Mid-Market,Northwind,Pro,bug,6,no,The analysis just spins forever on big datasets.
+1007,2026-03-04,Zendesk,SMB,Junip,Business,complaint,5,yes,Spent an hour just trying to understand where to start.
+1076,2026-03-06,Slack,Mid-Market,Driftwave,Pro,complaint,2,yes,Setup is confusing. The docs assume I already know what a 'workspace' is.
+1137,2026-03-06,Email,Startup,Hearth,Starter,complaint,4,yes,Why does it take so long to get value? I connected nothing useful in the first session.
+1139,2026-03-07,Email,SMB,Brightloop,Starter,bug,5,no,Push notifications for spiking issues never arrive on Android.
+1057,2026-03-08,App Store,Mid-Market,Vellum,Free,bug,5,no,Dashboard takes 30+ seconds to load every morning.
+1094,2026-03-08,Slack,Startup,Acme Robotics,Pro,question,6,no,Does the data stay in the EU? Compliance is asking.
+1092,2026-03-11,Slack,Enterprise,Acme Robotics,Pro,praise,9,no,Cut our quarterly planning prep from days to an afternoon.
+1096,2026-03-12,Slack,Enterprise,Cendar,Free,praise,9,no,"Finally I can see all our feedback in one place, game changer for our planning."
+1023,2026-03-13,Email,Mid-Market,Junip,Pro,complaint,3,yes,"Pricing is not transparent, had to talk to sales just to get a number."
+1042,2026-03-13,Email,Mid-Market,Finch,Free,complaint,2,no,"Took me three days to figure out how to connect our first data source, almost gave up."
+1058,2026-03-14,Email,SMB,Junip,Starter,bug,6,no,Dashboard takes 30+ seconds to load every morning.
+1063,2026-03-16,Slack,Mid-Market,Cobalt,Free,complaint,3,yes,Need to be able to click into a theme and verify the source feedback.
+1122,2026-03-17,Zendesk,SMB,Cobalt,Starter,complaint,5,yes,I never finished onboarding. Got stuck on the integration step and moved on.
+1082,2026-03-18,Zendesk,Enterprise,Junip,Pro,question,8,no,How do I invite a teammate as read-only?
+1100,2026-03-21,Slack,Startup,Querio,Business,complaint,3,no,Onboarding needs serious work. My team gave up before seeing any insights.
+1046,2026-03-25,App Store,Mid-Market,Mapleworks,Starter,bug,6,no,App is painfully slow when I have more than a few hundred tickets loaded.
+1103,2026-03-25,App Store,Startup,Wavelet,Pro,praise,9,no,Cut our quarterly planning prep from days to an afternoon.
+1012,2026-03-26,Slack,Mid-Market,Sandbar,Free,feature_request,6,no,"Founders want the 'just tell me what to do' view, not the raw data."
+1086,2026-03-27,Zendesk,Mid-Market,Hearth,Pro,complaint,3,yes,Couldn't get it running same day like the sales rep promised. Spent a week.
+1049,2026-03-28,Zendesk,Mid-Market,Karbon,Pro,complaint,5,yes,"Pricing is not transparent, had to talk to sales just to get a number."
+1131,2026-03-28,Zendesk,Enterprise,Northwind,Free,feature_request,8,no,When are you adding more integrations? Right now I copy paste everything.
+1070,2026-04-03,Sales Call,Startup,Querio,Pro,feature_request,7,no,"Missing HubSpot integration means we have to export manually, painful."
+1129,2026-04-03,NPS Survey,SMB,Acme Robotics,Free,praise,10,no,"The Monday summary is the first thing I read now, love it."
+1136,2026-04-03,Sales Call,SMB,Tilo,Starter,feature_request,6,no,Add scheduled email digests for stakeholders who won't log in.
+1083,2026-04-04,NPS Survey,SMB,Driftwave,Business,complaint,2,no,Too expensive for what it does at our size.
+1101,2026-04-04,Zendesk,SMB,Pinewood,Starter,question,7,no,Does the data stay in the EU? Compliance is asking.
+1112,2026-04-04,Zendesk,Startup,Vellum,Starter,complaint,1,no,Spent an hour just trying to understand where to start.
+1033,2026-04-06,Zendesk,Mid-Market,Cobalt,Business,feature_request,8,no,Can you connect to Gong? Half our real feedback is in sales calls.
+1016,2026-04-08,NPS Survey,Startup,Cobalt,Business,complaint,5,yes,"Took me three days to figure out how to connect our first data source, almost gave up."
+1039,2026-04-08,App Store,Mid-Market,Lumen Labs,Business,bug,6,no,Dashboard takes 30+ seconds to load every morning.
+1043,2026-04-09,NPS Survey,SMB,Driftwave,Starter,praise,10,no,"Finally I can see all our feedback in one place, game changer for our planning."
+1067,2026-04-10,Slack,SMB,Wavelet,Pro,question,7,no,Is there a way to tag feedback manually to correct a theme?
+1099,2026-04-10,Email,Mid-Market,Junip,Free,bug,5,no,App is painfully slow when I have more than a few hundred tickets loaded.
+1017,2026-04-11,Email,SMB,Acme Robotics,Pro,complaint,2,yes,Why does it take so long to get value? I connected nothing useful in the first session.
+1109,2026-04-12,Email,SMB,Karbon,Starter,complaint,3,yes,Setup is confusing. The docs assume I already know what a 'workspace' is.
+1029,2026-04-13,Sales Call,SMB,Cendar,Pro,feature_request,8,no,"Missing HubSpot integration means we have to export manually, painful."
+1048,2026-04-13,NPS Survey,Startup,Acme Robotics,Business,complaint,3,yes,Why does it take so long to get value? I connected nothing useful in the first session.
+1036,2026-04-14,Email,SMB,Junip,Free,complaint,5,no,"I don't trust the themes, I can't see which tickets are behind each one."
+1124,2026-04-14,Email,Mid-Market,Brightloop,Starter,bug,2,yes,Performance degrades badly past a few thousand feedback items.
+1128,2026-04-14,Slack,SMB,Otterly,Pro,feature_request,6,no,When are you adding more integrations? Right now I copy paste everything.
+1069,2026-04-15,Slack,Startup,Hearth,Free,complaint,2,yes,Setup is confusing. The docs assume I already know what a 'workspace' is.
+1084,2026-04-16,NPS Survey,Enterprise,Cobalt,Starter,complaint,3,yes,"Took me three days to figure out how to connect our first data source, almost gave up."
+1140,2026-04-17,Email,SMB,Northwind,Pro,complaint,1,yes,Why does it take so long to get value? I connected nothing useful in the first session.
+1010,2026-04-18,Slack,Mid-Market,Junip,Free,complaint,5,no,"It grouped two totally unrelated complaints into one theme, made me look bad in a meeting."
+1056,2026-04-18,NPS Survey,Startup,Driftwave,Pro,complaint,2,yes,"Took me three days to figure out how to connect our first data source, almost gave up."
+1028,2026-04-20,Slack,Mid-Market,Cobalt,Free,feature_request,6,no,Can you connect to Gong? Half our real feedback is in sales calls.
+1114,2026-04-20,Slack,Mid-Market,Querio,Pro,complaint,2,no,Can't justify the cost to my founders for a tool only I use.
+1126,2026-04-20,Email,SMB,Cobalt,Pro,complaint,5,no,Can't justify the cost to my founders for a tool only I use.
+1080,2026-04-21,Slack,SMB,Northwind,Starter,complaint,1,yes,"Accuracy is hit or miss, I have to double check everything."
+1151,2026-04-21,Email,SMB,Querio,Free,feature_request,7,no,No Salesforce connector is a dealbreaker for us.
+1073,2026-04-23,Email,Mid-Market,Pinewood,Starter,feature_request,8,no,"Missing HubSpot integration means we have to export manually, painful."
+1111,2026-04-23,Email,Enterprise,Lumen Labs,Pro,complaint,2,yes,Couldn't get it running same day like the sales rep promised. Spent a week.
+1040,2026-04-24,NPS Survey,SMB,Cobalt,Pro,complaint,3,yes,Can't justify the cost to my founders for a tool only I use.
+1107,2026-04-26,Email,SMB,Otterly,Starter,complaint,3,no,"The initial setup wizard is overwhelming, too many options before I see anything."
+1038,2026-04-28,Slack,SMB,Junip,Starter,complaint,1,no,The jump from Starter to Pro is way too steep.
+1074,2026-05-02,Zendesk,Enterprise,Otterly,Starter,feature_request,8,no,Can you connect to Gong? Half our real feedback is in sales calls.
+1078,2026-05-02,Zendesk,SMB,Acme Robotics,Business,feature_request,7,no,Add Intercom integration and we'd switch tomorrow.
+1035,2026-05-03,Sales Call,SMB,Cendar,Starter,feature_request,7,no,Add Intercom integration and we'd switch tomorrow.
+1146,2026-05-03,Zendesk,SMB,Hearth,Pro,feature_request,5,no,A shareable read-only summary link would be huge for exec buy-in.
+1004,2026-05-04,Zendesk,SMB,Junip,Pro,bug,2,yes,Can't log in on iOS since the last update.
+1098,2026-05-05,Zendesk,Enterprise,Cobalt,Starter,bug,6,no,The analysis just spins forever on big datasets.
+1125,2026-05-05,NPS Survey,SMB,Cendar,Free,praise,8,no,Cut our quarterly planning prep from days to an afternoon.
+1132,2026-05-07,NPS Survey,Enterprise,Driftwave,Free,complaint,4,no,"It grouped two totally unrelated complaints into one theme, made me look bad in a meeting."
+1022,2026-05-11,Email,SMB,Brightloop,Business,bug,2,no,"Mobile is basically unusable, I only check it on desktop now."
+1032,2026-05-11,Slack,Startup,Wavelet,Business,complaint,3,no,Setup is confusing. The docs assume I already know what a 'workspace' is.
+1144,2026-05-14,Slack,SMB,Lumen Labs,Business,complaint,3,no,"The initial setup wizard is overwhelming, too many options before I see anything."
+1145,2026-05-15,Email,SMB,Acme Robotics,Starter,complaint,3,yes,Why does it take so long to get value? I connected nothing useful in the first session.
+1034,2026-05-16,NPS Survey,SMB,Querio,Starter,complaint,2,no,We churned because the price doubled at renewal with no warning.
+1041,2026-05-19,Zendesk,Enterprise,Acme Robotics,Business,complaint,4,no,Onboarding needs serious work. My team gave up before seeing any insights.
+1075,2026-05-19,NPS Survey,Mid-Market,Querio,Business,praise,9,no,"The Monday summary is the first thing I read now, love it."
+1025,2026-05-20,Email,Mid-Market,Cobalt,Free,feature_request,5,no,"Missing HubSpot integration means we have to export manually, painful."
+1134,2026-05-20,Zendesk,Startup,Wavelet,Business,complaint,3,no,Setup is confusing. The docs assume I already know what a 'workspace' is.
+1147,2026-05-21,Zendesk,Mid-Market,Tessera,Free,bug,3,no,Performance degrades badly past a few thousand feedback items.
+1150,2026-05-21,Email,SMB,Wavelet,Starter,bug,6,no,"The mobile app barely works, charts don't render."
+1021,2026-05-22,Email,Startup,Finch,Business,bug,5,no,Push notifications for spiking issues never arrive on Android.
+1037,2026-05-23,Slack,SMB,Karbon,Starter,feature_request,5,no,A shareable read-only summary link would be huge for exec buy-in.
+1055,2026-05-23,App Store,SMB,Junip,Starter,bug,4,no,"The mobile app barely works, charts don't render."
+1052,2026-05-25,Zendesk,SMB,Cobalt,Starter,feature_request,8,no,Can you add an export to PDF for the leadership summary?
+1066,2026-05-26,Sales Call,Enterprise,Tessera,Starter,feature_request,5,no,Need a one-slide exec summary I can drop into a board deck.
+1079,2026-05-27,NPS Survey,SMB,Junip,Pro,praise,10,no,Surfaced an onboarding problem we had no idea was so big. Worth it for that alone.
+1013,2026-05-28,Zendesk,Startup,Wavelet,Starter,feature_request,6,no,Can you connect to Gong? Half our real feedback is in sales calls.
+1149,2026-06-03,Zendesk,Startup,Driftwave,Pro,bug,4,no,"The mobile app barely works, charts don't render."
+1077,2026-06-04,NPS Survey,Enterprise,Otterly,Starter,complaint,3,yes,"Took me three days to figure out how to connect our first data source, almost gave up."
+1085,2026-06-05,Zendesk,Mid-Market,Querio,Pro,question,7,no,Is there a way to tag feedback manually to correct a theme?
+1024,2026-06-06,Email,Startup,Pinewood,Starter,complaint,3,no,First-run experience is rough. No clear 'do this first' path.
+1026,2026-06-06,Zendesk,SMB,Hearth,Starter,complaint,5,no,"It grouped two totally unrelated complaints into one theme, made me look bad in a meeting."
+1068,2026-06-07,Email,Startup,Acme Robotics,Pro,complaint,5,yes,Too expensive for what it does at our size.
+1081,2026-06-16,Slack,Startup,Tilo,Starter,feature_request,8,no,"Missing HubSpot integration means we have to export manually, painful."
+1006,2026-06-17,Zendesk,Startup,Junip,Pro,complaint,4,no,"I don't trust the themes, I can't see which tickets are behind each one."
+1123,2026-06-17,App Store,SMB,Cobalt,Pro,bug,6,no,Sync keeps timing out on large imports.
+1002,2026-06-19,Email,SMB,Querio,Free,feature_request,8,no,Add Intercom integration and we'd switch tomorrow.
+1003,2026-06-21,Email,Startup,Cobalt,Starter,praise,10,no,My founders actually trust the roadmap now because it's backed by data.
+1127,2026-06-21,NPS Survey,SMB,Lumen Labs,Pro,complaint,3,yes,Need to be able to click into a theme and verify the source feedback.
+1113,2026-06-23,Zendesk,Enterprise,Karbon,Starter,feature_request,6,no,"Missing HubSpot integration means we have to export manually, painful."
+1093,2026-06-25,Zendesk,Enterprise,Junip,Starter,feature_request,8,no,Add scheduled email digests for stakeholders who won't log in.
+1104,2026-06-25,NPS Survey,Mid-Market,Brightloop,Pro,complaint,2,yes,I never finished onboarding. Got stuck on the integration step and moved on.
+1135,2026-06-25,Email,Enterprise,Otterly,Free,complaint,5,yes,Spent an hour just trying to understand where to start.
+1089,2026-06-26,Slack,SMB,Pinewood,Pro,complaint,3,yes,Setup is confusing. The docs assume I already know what a 'workspace' is.
+1018,2026-06-27,Email,Enterprise,Tilo,Starter,complaint,3,no,"Found a 'theme' that was basically hallucinated, not real."
+1051,2026-06-27,Zendesk,Enterprise,Cendar,Business,feature_request,7,no,"We need Slack support, our sales team dumps feedback there all day."
+1148,2026-06-27,NPS Survey,SMB,Vellum,Business,complaint,3,yes,Setup is confusing. The docs assume I already know what a 'workspace' is.
+1015,2026-06-28,NPS Survey,Mid-Market,Querio,Starter,complaint,3,no,"The initial setup wizard is overwhelming, too many options before I see anything."

@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+
+# Logs and stray tool/config files (so `git add -A` never sweeps them in)
+*.log
+.claude/launch.json
+.claude/settings.local.json
+
+# Node / Vercel (only relevant if Mission 10 is attempted)
+node_modules/
+.vercel/
+
+# Instructor answer key - never ship this in the public template repo.
+# Kept locally in the working tree, just not tracked/pushed.
+facilitator/
+
+# Keep the workspace folder tracked but ignore nothing inside it by default.
+# Learners' artifacts ARE the point, so they stay in git.

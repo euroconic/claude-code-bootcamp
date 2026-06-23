@@ -1,0 +1,43 @@
+[Discovery call recording - auto-transcript - 31:42 - quality: ok]
+[Participants: MAYA (Signal, you weren't on this one, your colleague ran it), DEREK (Head of Product at a 40-person B2B SaaS called Tilo)]
+
+maya: okay i think we're recording now, can you hear me alright?
+derek: yep loud and clear
+maya: cool cool. so thanks for making the time derek, i know you're slammed. um so like i said this is just a chat, i'm trying to understand how teams like yours deal with customer feedback, there's no pitch, i promise, ha
+derek: ha no worries, happy to. yeah feedback is uh, it's a mess honestly
+maya: tell me about that. like walk me through, what does it actually look like day to day
+derek: so. okay so we have feedback coming in from like, god, so many places. we've got Zendesk for support obviously, we've got a #feedback channel in slack that the sales team dumps stuff into, we run an NPS survey quarterly through Delighted, and then there's the app store reviews for our mobile thing, and then honestly half the real stuff comes from sales calls that just live in someone's head or in Gong somewhere
+maya: that's a lot of places
+derek: it's so many places. and like nobody owns it. that's the thing. so what happens is, the loudest customer wins, or whoever complained most recently to the CEO, you know? he'll forward me an email at 11pm like "we HAVE to fix this" and it's one customer
+maya: ha, the 11pm forward
+derek: every founder does it. so yeah we end up being super reactive. um
+maya: so when you actually plan a quarter, how do you decide what to build?
+derek: i mean honestly? it's a mix of gut, the loudest accounts, and whatever the sales team says will close deals. which, sometimes that's right but sometimes we build a thing for one prospect and they churn anyway and now we own this feature nobody else uses
+maya: how often does that happen, building something for basically one account
+derek: more than i'd like to admit. like maybe, i'd say a third of our roadmap last year was kind of, reactive one-off stuff. and the cost of that is we're not building the things that would actually move retention
+maya: do you have a sense of what those things are? the retention things
+derek: kind of? like i have a hunch. but i can't prove it because i don't have a clean view of all the feedback in one place. i'd have to like, manually go read 200 zendesk tickets and tag them and i just, who has time
+maya: have you ever tried to do that, the manual tagging
+derek: oh yeah. yeah we did it once. i had a PM spend basically two weeks, she exported everything into a giant spreadsheet and tagged it by theme and it was actually super useful, we found this whole cluster of complaints about our onboarding that we had no idea was that big. but
+maya: but?
+derek: but it was a snapshot. like the second she finished it was already out of date and we never did it again because it was two weeks of a person's life. it's not repeatable
+maya: that's really interesting. so the value was clearly there, it was just the effort
+derek: exactly. the insight was gold, the process was hell. if i could press a button and get that spreadsheet fresh every monday i'd, i mean i'd pay real money for that
+maya: when you say real money, like, do you have a sense, is this a budgeted thing or
+derek: i mean it'd come out of my product tools budget. i pay for like Productboard already, which, honestly we barely use it, it's like 30 bucks a seat or whatever and it's basically become a roadmap slideshow tool, it doesn't actually do the analysis part. nobody on my team logs in
+maya: so you have Productboard but it's not solving this
+derek: right because Productboard is great if you already know your themes and you're organizing them for stakeholders. it does not read 200 tickets and tell me "hey onboarding is your number one churn driver." that part is still on me and i don't have time so it doesn't happen
+maya: got it. um. let me ask, if this magic monday spreadsheet existed, who looks at it? is it you, is it the whole team
+derek: me for sure. probably our support lead, she'd love early warning on stuff blowing up. and honestly the founders, they'd want the summary, like the one slide version. they don't want the spreadsheet they want the "here's the 3 things" version
+maya: the 3 things version, interesting
+derek: yeah execs don't want data they want a decision. like just tell me what to do
+maya: okay this is super helpful. what would make you NOT use something like this. like what's the dealbreaker
+derek: um. if it's wrong. like if it hallucinates a theme that isn't real and i bring it to the founders and it's garbage, that's worse than nothing, now i look stupid. i'd need to trust it, i'd want to be able to click into a theme and see the actual tickets behind it
+derek: oh and it has to connect to zendesk and slack at minimum or it's dead on arrival, i'm not copy pasting tickets into another tool
+maya: makes sense, the trust thing and the integrations. anything else
+derek: setup. if it takes me a quarter to onboard it i'll never do it. honestly half the tools i buy i never finish setting up. has to be like, connect zendesk, see value same day
+maya: connect and see value same day. love that. okay derek i think i have what i need, this was incredibly useful
+derek: yeah this was fun honestly, made me realize how broken our process is ha. send me whatever you end up building, i'm serious
+maya: will do. thanks derek
+derek: cheers
+[end of recording]
