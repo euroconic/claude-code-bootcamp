@@ -31,7 +31,16 @@ Before you save anything, one habit worth keeping for life: never commit real se
    > "Initialize git here if needed, then stage everything and make a first commit with the message 'Signal bootcamp: research, decision, PRD, and MVP'. Then show me the log so I can see my save point."
 4. Make a tiny change (edit a line in your PRD), then ask: "show me what changed since my last commit, then commit it with a clear message." This is the loop: change, review, commit.
 5. Ask your mentor to explain the three core moves in one line each: `add` (choose what to save), `commit` (save with a note), `log` (see your history).
-6. **(Optional) Publish your version to your own GitHub.** This turns your work into a public portfolio piece and sets up the graduation step in the capstone. A repository on GitHub is just your project, stored online so you can share it with a link. If you do not have a GitHub account yet, your mentor will walk you through it. Then:
+6. **(Optional) Publish your version to your own GitHub.** This turns your work into a public portfolio piece and sets up the graduation step in the capstone. First, the one distinction worth having straight:
+
+   | | **Git** | **GitHub** |
+   |---|---|---|
+   | What it is | A tool on your own computer | A website that stores git projects online |
+   | Where your work lives | This folder, right here | The cloud, at github.com |
+   | What it does | Takes the snapshots (commits) you just made | Keeps a copy of those snapshots so you can share, back up, or collaborate |
+   | Everyday analogy | Saving a Word document on your laptop | Uploading that document to Google Drive so others can see it |
+
+   Git is the tool, GitHub is one place (the most popular one) you can send git's snapshots to. If you do not have a GitHub account yet, your mentor will walk you through it. Then:
    > "Create a new public GitHub repo called signal-bootcamp under my account and push this project to it. Show me the link when it is live."
    Your mentor can do this for you with the `gh` command-line tool (it will install or sign you in if needed). Keep the repo public so you can share it and add it to the showcase later.
 

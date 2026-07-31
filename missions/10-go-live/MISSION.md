@@ -25,6 +25,7 @@ If you would rather not install or sign up for anything, that is completely fine
 > Note: do NOT use the generic dashboard "Add New Project" flow for this. That one expects your code to be in a GitHub repository, and your MVP is just a local folder. Vercel Drop is the route that works for a plain folder.
 
 ### Path B — Command line (with Node installed)
+The **Vercel CLI** is just a way to talk to Vercel from your terminal instead of clicking around their website, you type a command, it does the equivalent of a few clicks.
 1. Ask your mentor: "walk me through deploying workspace/mvp to Vercel using the Vercel CLI, step by step, and explain each command." It will typically be:
    - `npm install -g vercel` — installs the Vercel command-line tool, once, globally on your computer.
    - `vercel login` — signs the CLI into your Vercel account (opens your browser to confirm).

@@ -11,7 +11,7 @@ You will be playing a role: **founding Product Manager at a startup called "Sign
 ## What you need (5 minutes of setup)
 
 1. **Claude Code installed.** Not installed yet? Follow the [Quick Guide: INSTALL.md](INSTALL.md) - it takes 5-10 minutes from zero. (Or see https://docs.claude.com/claude-code.)
-2. **This folder, unzipped**, somewhere you can find it (Desktop is fine).
+2. **This folder, unzipped**, somewhere you can find it (Desktop is fine). Do not have it yet, and never used GitHub? Follow the [Quick Guide: GET-THIS-PROJECT.md](GET-THIS-PROJECT.md) - no account needed, 2 minutes.
 3. **15-20 minutes per mission.** There are 11 core missions, two optional bonus stops (Go Live and Power Tools), and a capstone wrap-up. Do one a day or binge them. Your progress is saved.
 
 ---
@@ -51,10 +51,11 @@ Whichever you choose, the rule is the same: **Claude Code must be opened inside 
 
 You drive Claude Code mostly by talking in plain English. A handful of small tricks make life much easier, and you will use them in the missions.
 
-**1. Slash commands.** Type a `/` (forward slash) and a little menu of built-in commands pops up. You do not need to memorize them. Two handy ones:
+**1. Slash commands.** Type a `/` (forward slash) and a little menu of built-in commands pops up. You do not need to memorize them. A few handy ones:
 
 - `/help` - shows what you can do
 - `/clear` - wipes the conversation and starts fresh (useful if things get messy)
+- `/compact` - shrinks a long conversation down to a summary instead of a full wipe, handy if things are getting slow but you are not ready for `/clear`
 
 You will see other slash commands appear. Ignore the ones that look technical or unrelated to the course; your mentor will tell you if a mission ever needs one.
 
@@ -68,6 +69,12 @@ You will see other slash commands appear. Ignore the ones that look technical or
 **4. Where does Claude live right now?** This Claude Code session runs locally, right here in this folder, reading and writing your actual files. That is different from chatting with Claude on claude.ai in a browser, which never touches your computer. Both are "Claude," just set up for different jobs, this one is set up to work directly in your project.
 
 **5. Getting better answers.** The single biggest lever is being specific: name the exact sections or format you want, and if the first answer is close but not quite right, say so and ask for the change rather than starting over. Every mission gives you a "strong prompt" example, notice how specific they are, that is the pattern.
+
+**6. Planning before building.** On anything bigger than a one-line edit, you can ask Claude to lay out its plan or its options before it touches a single file, so you are steering instead of reacting after the fact. Just say something like "make a plan first" or "give me a few options before you build anything." There is also a dedicated **Plan Mode** built into Claude Code for this, your mentor can show you how to turn it on when a mission calls for it (Mission 08 is a good place to try it).
+
+**7. Choosing a model.** Claude Code can run on different underlying Claude models, some faster, some more powerful for gnarly reasoning-heavy work. Type `/model` any time to see and switch which one you are talking to. You do not need to touch this for this course, the default is a good fit for everything here, just know the option exists for your real job later.
+
+**8. Choosing a mode.** Beyond Plan Mode, Claude Code has a few "modes" that control how much it checks with you before acting, from asking permission for anything risky, up to an auto-accept mode that just runs with things. If you are curious what mode you are in, just ask "what mode am I in, and what are my options?" The default is the safe, sensible starting point, so no need to change anything unless a mission tells you to.
 
 That is the whole toolkit. Plain English, a `/` for commands, an `@` to point at files, `Esc` to stop it.
 

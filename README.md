@@ -16,6 +16,17 @@ Built for product managers, business analysts, designers, founders, and marketer
 
 Full walkthrough: [START-HERE.md](START-HERE.md).
 
+### Never used GitHub before?
+
+No account needed, this takes about 2 minutes:
+
+1. Near the top of this page, find the green **`< > Code`** button and click it.
+2. Click **Download ZIP** in the menu that drops down. It saves to your Downloads folder.
+3. Unzip it: on a Mac, double-click the downloaded file. On Windows, right-click it and choose **Extract All**.
+4. Move the unzipped folder somewhere you'll find it again (Desktop is fine), then continue with Step 1 above.
+
+Full version with pictures-in-words for every step: [GET-THIS-PROJECT.md](GET-THIS-PROJECT.md).
+
 ## What you build
 
 Your own AI agent, a market-research brief, a data-insights report, a decision memo, a prioritized backlog, a full PRD, and a working MVP landing page you can ship live. See [THE-CASE.md](THE-CASE.md) for the story you operate in.

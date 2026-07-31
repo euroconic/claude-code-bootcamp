@@ -22,7 +22,9 @@ One especially useful one is a **security review** skill: it reads code or confi
 Even a simple static landing page can turn up a note or two (or a clean bill of health). Either result is useful: this is the same kind of check a company would run before anything real goes live, and now you have seen it happen on something you built.
 
 ### Step 3 — Subagents
-While you have been working through this course, on a few research-heavy asks (market research, data analysis) Claude Code may have quietly used a **subagent**: a separate helper instance of Claude, given a narrow job and a deadline, that goes off, does that one piece of work, and comes back with a result. It exists so the main conversation with you does not get cluttered with someone else's homework, only the answer.
+While you have been working through this course, on a few research-heavy asks (market research, data analysis) Claude Code may have quietly used a **subagent**: a separate helper instance of Claude, given a narrow job and a deadline, that goes off, does that one piece of work, and comes back with a result.
+
+Here is why that matters, not just tidiness: every conversation has a limited amount of "working memory" it can hold at once, called the **context window**. Reading a huge spreadsheet or a pile of search results eats into that memory fast. A subagent goes off and does that heavy reading in its *own* separate memory, then hands back only the distilled answer, so your actual conversation's memory stays free for the real work instead of filling up with someone else's raw research.
 
 Ask your mentor: "did you use any subagents during this course, and what is the difference between a subagent and the custom agent I built in Mission 01?" (Short answer to expect: your Mission 01 agent is a saved job description that Claude reads when you call on it by name. A subagent is a temporary helper Claude itself decides to spin up mid-task to go research or execute something in parallel, then it reports back and disappears.)
 
