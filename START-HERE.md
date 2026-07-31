@@ -1,5 +1,7 @@
 # Start Here — Claude Code Bootcamp
 
+A Claude Code Bootcamp by [AIsandboxlab.com](http://AIsandboxlab.com).
+
 Welcome. By the end of this you will have run real market research, analyzed real data, written a PRD, built a working web page, and (optionally) published it live on the internet. All by talking to an AI assistant in plain English. No coding background needed.
 
 You will be playing a role: **founding Product Manager at a startup called "Signal."** Every task moves your product forward. It feels like a real project because it is built like one.
@@ -10,7 +12,7 @@ You will be playing a role: **founding Product Manager at a startup called "Sign
 
 1. **Claude Code installed.** Not installed yet? Follow the [Quick Guide: INSTALL.md](INSTALL.md) - it takes 5-10 minutes from zero. (Or see https://docs.claude.com/claude-code.)
 2. **This folder, unzipped**, somewhere you can find it (Desktop is fine).
-3. **15-20 minutes per mission.** There are 11 missions plus a wrap-up. Do one a day or binge them. Your progress is saved.
+3. **15-20 minutes per mission.** There are 11 core missions, two optional bonus stops (Go Live and Power Tools), and a capstone wrap-up. Do one a day or binge them. Your progress is saved.
 
 ---
 
@@ -41,11 +43,13 @@ Claude Code is the same tool no matter where you open it. The steps above use th
 
 Whichever you choose, the rule is the same: **Claude Code must be opened inside this course folder.** That is how your mentor "wakes up" and knows it is the mentor. If you ever feel lost, the terminal steps above are the safe default.
 
+**Why bother with VS Code?** The terminal only shows text. VS Code adds a sidebar with every file and folder in the project, so you can see the shape of what you're building, and it can show a markdown file (like this one) formatted nicely instead of raw text with `#` symbols everywhere. Click the little preview icon in the top-right of an open markdown file to see it rendered; click back on the file's tab to get back to plain-text edit mode. Neither view changes the file, it is just how you are looking at it.
+
 ---
 
 ## A few Claude Code basics worth knowing
 
-You drive Claude Code mostly by talking in plain English. But two small tricks make life much easier, and you will use them in the missions.
+You drive Claude Code mostly by talking in plain English. A handful of small tricks make life much easier, and you will use them in the missions.
 
 **1. Slash commands.** Type a `/` (forward slash) and a little menu of built-in commands pops up. You do not need to memorize them. Two handy ones:
 
@@ -59,7 +63,20 @@ You will see other slash commands appear. Ignore the ones that look technical or
 - **Type `@`** and start typing the file name. Claude shows a list, you pick the file. This "mentions" the file so Claude reads it.
 - **Copy or drag the file's path.** Drag a file onto the terminal window and its full path appears, or right-click a file and copy its path, then paste it into your message. Saying "look at this file: <pasted path>" works perfectly.
 
-That is the whole toolkit. Plain English, a `/` for commands, an `@` to point at files.
+**3. The Esc key.** If Claude is mid-response or mid-action and heading somewhere you did not want, press `Esc`. It stops what it is doing right there. Nothing is lost, you just get control back to redirect it.
+
+**4. Where does Claude live right now?** This Claude Code session runs locally, right here in this folder, reading and writing your actual files. That is different from chatting with Claude on claude.ai in a browser, which never touches your computer. Both are "Claude," just set up for different jobs, this one is set up to work directly in your project.
+
+**5. Getting better answers.** The single biggest lever is being specific: name the exact sections or format you want, and if the first answer is close but not quite right, say so and ask for the change rather than starting over. Every mission gives you a "strong prompt" example, notice how specific they are, that is the pattern.
+
+That is the whole toolkit. Plain English, a `/` for commands, an `@` to point at files, `Esc` to stop it.
+
+## Using AI responsibly
+
+A couple of habits worth having from day one, on this course and on your real job:
+
+- **You own the outcome.** Claude drafts and computes fast, but it can be confidently wrong. You are the one putting your name on the report, memo, or PRD, so skim what it produces and use `check my work` freely. If a number or quote looks off, it might be.
+- **Never paste real secrets.** Do not type real passwords, API keys, or customer personal data into the chat, in this course or anywhere else. Treat it like any other tool that logs what you send it.
 
 ---
 

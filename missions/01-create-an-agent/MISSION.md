@@ -17,6 +17,8 @@ In Claude Code these files live in a folder called `.claude/agents/`. The dot at
 
 There is a ready-made example for you in this mission's `templates/status-writer.md`. Look at it, it is short and readable.
 
+A quick note on the word "agent": you will hear it used loosely all over the place. What you are building here specifically is a saved instruction file that Claude Code reads from a folder on your own computer. It is worth knowing that this whole bootcamp runs on the exact same trick, scaled up: this project has one big instruction file, `CLAUDE.md`, that turns Claude into your mentor for the entire course. Once you finish this mission you will know how to do that for your own real project too.
+
 ## What to do
 
 ### Step 1 — Watch (mentor demonstrates)

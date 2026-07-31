@@ -19,6 +19,7 @@ Mentor: read this file at the start of every session. The **checkboxes below are
 - [ ] 08 — Build the MVP
 - [ ] 09 — Save Your Work
 - [ ] 10 — Go Live (bonus, optional)
+- [ ] 11 — Power Tools (bonus, optional)
 - [ ] 99 — Capstone
 
 ---

@@ -31,3 +31,5 @@ When that file is there, tell them they passed and to type `next`.
 
 ## What you just learned
 You can ask an AI assistant to look around, read, create, and edit files for you in plain English. No menus, no code. That is 80% of what you will do all course.
+
+There is no dumb question here, ask your mentor anything, including "what does that mean" or "why did you do it that way." And if you want the fuller list of Claude Code tricks (the Esc key, pointing at files with @, and more), it is in `START-HERE.md` whenever you want it.

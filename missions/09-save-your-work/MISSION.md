@@ -11,12 +11,23 @@ Up to now your files just sit in a folder. **Git** is a tool that takes labeled 
 ## What an analogy helps here
 Think of git like "save game" checkpoints for a project. A **commit** is one save point, with a note about what you did. A **repository** (repo) is just your project once it is under git's care.
 
+Picture your project's history as a line of dots, each dot a commit, each one labeled with what changed:
+
+```
+(1) init  --> (2) add PRD  --> (3) add MVP  --> (4) fix typo
+ o    -------->  o     -------->  o     -------->  o
+```
+
+Each `o` is a save point you can always go back and look at. That is the whole idea.
+
+Before you save anything, one habit worth keeping for life: never commit real secrets. If a project ever has a file like `.env` holding real passwords or API keys, that file should never end up in a commit, it should be listed in `.gitignore` instead so git ignores it. This project does not have any real secrets in it, but ask your mentor to confirm nothing sensitive is about to be staged before your first commit, just to build the habit.
+
 ## What to do
 1. Ask your mentor: "is this project using git yet?" If not: "set up git for this project."
 2. Set your identity (one-time, required before your first ever commit, or git will stop with an "unknown author" error). Ask your mentor: "set my git name and email." The commands it runs are:
    > `git config --global user.name "Your Name"` and `git config --global user.email "you@example.com"`
    If you have committed on this computer before, this is already done and you can skip it.
-3. Take your first snapshot. A strong prompt:
+3. Before your first commit, build the secrets-check habit: ask "confirm nothing sensitive, like API keys or a .env file, is about to be committed." Then take your first snapshot. A strong prompt:
    > "Initialize git here if needed, then stage everything and make a first commit with the message 'Signal bootcamp: research, decision, PRD, and MVP'. Then show me the log so I can see my save point."
 4. Make a tiny change (edit a line in your PRD), then ask: "show me what changed since my last commit, then commit it with a clear message." This is the loop: change, review, commit.
 5. Ask your mentor to explain the three core moves in one line each: `add` (choose what to save), `commit` (save with a note), `log` (see your history).

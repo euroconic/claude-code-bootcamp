@@ -14,6 +14,7 @@ A PRD is the contract between "what we decided" and "what gets built." It is how
    > "Write a PRD for the Signal MVP in workspace/PRD.md using my decision-memo.md and prioritization.md. Include: TL;DR, the problem, the target user, the hypothesis (and a counter-hypothesis), goals and success metrics, what's in scope (the top 3 features), what's explicitly out of scope and why, and the key open questions. Keep it tight."
 3. Demand a real metric: "what is the one number that tells us the MVP worked, and what is the target?"
 4. Keep it honest: "add a counter-hypothesis: under what assumption would this MVP fail?" (A counter-hypothesis is just the opposite bet: the assumption that, if true, means this whole thing flops. Writing it down keeps you honest.)
+5. Before you call it done, get it critiqued: "now critique this PRD like a skeptical engineering lead reviewing it before sprint planning, what's vague, what's missing, what would you push back on?" Fix whatever it flags. A PRD that survives a skeptical read is a much stronger contract than one nobody challenged.
 
 ## Definition of Done
 - `workspace/PRD.md` exists.

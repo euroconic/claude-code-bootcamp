@@ -10,10 +10,12 @@ The fastest way to test demand is not to build the product, it is to build the p
 
 ## What to do
 1. Tell your mentor to base the page on your `PRD.md` (headline, the wedge, the target user, the top features).
-2. Ask for the build. A strong prompt:
-   > "Build a single-file landing page at workspace/mvp/index.html for Signal, based on my PRD.md. Use plain HTML and Tailwind via CDN so it opens with a double-click, no build step. Include: a clear headline and subhead from our positioning, 3 feature highlights from the PRD, a short 'how it works' section, and a waitlist email signup form. Make it look clean and modern."
-3. Open it: ask "open workspace/mvp/index.html in my browser" (or double-click the file yourself).
-4. Iterate like a designer: "make the headline punchier", "change the accent color to teal", "add a one-line social proof quote from our interview." Watch it update.
+2. Before generating the full page, ask for options instead of a finished result: "based on my PRD, propose 2-3 different directions for this landing page, headline angle and layout, before you build anything. Just describe them, don't build yet." Pick the one you like best, or mix pieces of two. This is a habit worth keeping on any bigger build: get Claude to lay out its plan or its options before it touches files, so you are steering instead of reacting. (There is a built-in version of this called **Plan Mode**, where Claude proposes a full plan before making any changes, it is worth trying on bigger tasks back on your real job.)
+3. Ask for the build. A strong prompt:
+   > "Build a single-file landing page at workspace/mvp/index.html for Signal, based on my PRD.md and the direction we picked. Use plain HTML and Tailwind via CDN so it opens with a double-click, no build step. Include: a clear headline and subhead from our positioning, 3 feature highlights from the PRD, a short 'how it works' section, and a waitlist email signup form. Make it look clean and modern, like a real product's homepage, not a generic template."
+4. Open it: ask "open workspace/mvp/index.html in my browser" (or double-click the file yourself).
+5. Iterate like a designer: "make the headline punchier", "change the accent color to teal", "add a one-line social proof quote from our interview." Watch it update.
+6. Make it feel more like a real app, not just a poster: ask for one more touch of interactivity within the same single file, for example a "how it works" section with clickable steps, or the waitlist form actually swapping to a "you're on the list" state on submit. Small interaction beats a static wall of text.
 
 ## Definition of Done
 - `workspace/mvp/index.html` exists and opens in a browser as a coherent landing page.

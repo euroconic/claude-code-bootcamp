@@ -13,7 +13,8 @@ Raw calls, meetings, and interviews are where the truth lives, but nobody re-lis
 2. Ask your mentor to read it and produce a structured report. A strong prompt:
    > "Read data/interview-call.txt and write an interview report with: a one-paragraph summary, the customer's top pain points, the current workaround they use, what they said they would pay for, dealbreakers, and 3 notable quotes. Save it to workspace/interview-report.md."
 3. Read the result and push back if anything is vague: "the pain points are too generic, tie each one to something Derek actually said." A good pain point names something Derek really said (a number, a tool, a story). If it could apply to any company, it is too generic, send it back.
-4. (Optional) Ask for a Word version: "also save this as a Word document" and your mentor will hand you a .docx.
+4. Before you call it done, ask: "is there anything important in the transcript you think you missed, or anything you're not fully sure you got right?" This is a habit worth keeping for life: a first draft from an AI is a draft, not a verdict, and asking it to double-check itself against the source often surfaces something.
+5. (Optional) Ask for a Word version: "also save this as a Word document" and your mentor will hand you a .docx.
 
 ## Definition of Done
 - `workspace/interview-report.md` exists.
