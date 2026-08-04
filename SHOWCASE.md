@@ -19,6 +19,7 @@ Keep your row to one line. Link your own repo or your live MVP if you have one -
 ## The board
 
 | Name / handle | Role | What you built | Link |
+| Oleg | Project Manager | Провёл разработку продукта Signal от интервью до задеплоенного MVP | https://gapanovich.github.io/signal-bootcamp/ |
 |---|---|---|---|
 | Andrew Tomin | Product Manager | Built the bootcamp itself | https://github.com/euroconic/claude-code-bootcamp |
 | _your name here_ | _your role_ | _one line_ | _your repo or MVP_ |
