@@ -21,7 +21,7 @@ Keep your row to one line. Link your own repo or your live MVP if you have one -
 | Name / handle | Role | What you built | Link |
 |---|---|---|---|
 | Andrew Tomin | Product Manager | Built the bootcamp itself | https://github.com/euroconic/claude-code-bootcamp |
-| _your name here_ | _your role_ | _one line_ | _your repo or MVP_ |
+| Tatyana | Business Analyst | Built an AI meeting-protocol agent and shipped the Signal MVP end-to-end | https://mvp-tmd4.vercel.app/ |
 
 ---
 
