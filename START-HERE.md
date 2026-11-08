@@ -1,6 +1,6 @@
-# Start Here — Claude Code Bootcamp
+# Start Here - AISandboxLab.com Claude Code Bootcamp
 
-A Claude Code Bootcamp by [AIsandboxlab.com](http://AIsandboxlab.com).
+A Claude Code Bootcamp by [AISandboxLab.com](https://AISandboxLab.com).
 
 Welcome. By the end of this you will have run real market research, analyzed real data, written a PRD, built a working web page, and (optionally) published it live on the internet. All by talking to an AI assistant in plain English. No coding background needed.
 
@@ -115,6 +115,6 @@ Now go open your terminal, run `claude`, and type `begin`. Your mentor is waitin
 
 ## Who built this
 
-This bootcamp was built by **Andrew Tomin**, a Senior/Staff Product Manager with 12+ years in enterprise B2B product. He builds AI agents and tools for his own workflows and teaches other knowledge workers (PMs, BAs, designers, founders, marketers) to do the same. The whole idea here: you learn Claude Code by doing real product work, not by watching slides.
+This bootcamp was built by **Andrew Tomin**, a Senior/Staff Product Manager with 14+ years in enterprise B2B product. He builds AI agents and tools for his own workflows and teaches other knowledge workers (PMs, BAs, designers, founders, marketers) to do the same. The whole idea here: you learn Claude Code by doing real product work, not by watching slides.
 
 Found a rough edge, or want to share what you built? That feedback is what makes the next version better.

@@ -78,4 +78,4 @@ You do not need these to do the bootcamp. They are just nicer windows for the sa
 
 Claude Code is installed and signed in. Now go to [START-HERE.md](START-HERE.md), unzip the bootcamp folder, open it with Claude Code, and type `begin`.
 
-Stuck on any step? That is exactly what the **AI Native Sandbox** community is for - drop your error there and someone will unstick you.
+Stuck on any step? That is exactly what the **AI Sandbox Lab** community is for - drop your error there and someone will unstick you.

@@ -25,4 +25,4 @@ Keep your row to one line. Link your own repo or your live MVP if you have one -
 
 ---
 
-Finished and want to keep going on your real work, with people doing the same? That is what the **AI Native Sandbox** is for. Bring your repo, ask your questions, keep the momentum.
+Finished and want to keep going on your real work, with people doing the same? That is what the **AI Sandbox Lab** is for. Bring your repo, ask your questions, keep the momentum.

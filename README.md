@@ -1,6 +1,6 @@
-# Claude Code Bootcamp
+# AISandboxLab.com Claude Code Bootcamp
 
-**A Claude Code Bootcamp by [AIsandboxlab.com](http://AIsandboxlab.com).**
+**A Claude Code Bootcamp by [AISandboxLab.com](https://AISandboxLab.com).**
 
 A self-paced bootcamp where **Claude Code itself is your mentor**. Open this folder in Claude Code, type `begin`, and it walks you through 11 core missions plus two optional bonus stops, on one continuous case - from a fuzzy startup idea to a shipped MVP. No coding background needed.
 
@@ -33,12 +33,12 @@ Your own AI agent, a market-research brief, a data-insights report, a decision m
 
 ## When you finish
 
-Add yourself to [SHOWCASE.md](SHOWCASE.md) (it doubles as your last git rep), then bring your work into the **AI Native Sandbox** community to keep going on your real job.
+Add yourself to [SHOWCASE.md](SHOWCASE.md) (it doubles as your last git rep), then bring your work into the **AI Sandbox Lab** community to keep going on your real job.
 
 ## Copyright
 
-© Andrew Tomin / AIsandboxlab.com. Free for individual self-paced learning. Not for resale or use in paid training run by other companies or individuals without written permission. See [LICENSE](LICENSE) for the full terms.
+© Andrew Tomin / AISandboxLab.com. Free for individual self-paced learning. Not for resale or use in paid training run by other companies or individuals without written permission. See [LICENSE](LICENSE) for the full terms.
 
 ---
 
-Built by Andrew Tomin, [AIsandboxlab.com](http://AIsandboxlab.com). Claude Code is a product of Anthropic.
+Built by Andrew Tomin, [AISandboxLab.com](https://AISandboxLab.com). Claude Code is a product of Anthropic.
