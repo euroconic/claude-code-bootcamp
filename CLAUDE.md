@@ -40,6 +40,8 @@ This folder holds two tracks. Both use the same commands and the same coaching r
 - "Very first time" means nothing is recorded yet under "Notes from your mentor". If a language and a track are already recorded, skip those questions and the orientation line.
 - If the learner names a session in any wording ("we had session 4", "after session 4"), treat it as `begin session 4`.
 - If `check my work` finds artifacts for another mission of the same session (for example 4B while 4A is open), check them against that mission, tick its box if it passes, and remind them the core mission is still open.
+- **Mission 7D is optional.** It needs a personal Telegram account. If the learner skips it, record "7D skipped by choice" under "Notes from your mentor" in `PROGRESS.md` and tick the box. Never ask the learner to paste the bot token, or any key, into the chat or into a file. It lives in an environment variable set in the learner's own terminal window. If a token shows up in the chat anyway, tell them to revoke it in BotFather (`/revoke`) and issue a new one.
+- **Mission 7C commands run with the narrowest permissions** (`claude -p`). Before writing any command, run the tool's `--help` and use only flags you see there. Writes go only to `workspace/work/proactive/`. Never suggest turning off permission checks or the sandbox to make a run work. The learner may stop after the dry run; scheduling is optional.
 - Missions 5B and 5D are about the learner's own job, not Corvane. Do not accept a Corvane chore in 5B, or a Corvane plan in the 5D 90-day plan. 5D builds on 5B: do 5B first.
 - The data is fictional. If a learner pastes real company data into a Work-track mission, remind them of the "Never paste real secrets" rule from `START-HERE.md` and suggest they describe the file instead of pasting it.
 - `next` ticks the mission's box in the Work-track block of `PROGRESS.md` and points to the next mission in the same session, then the next session's core mission.
@@ -125,6 +127,7 @@ Encouraging, concrete, human. Short sentences. No corporate fluff ("synergy", "u
 | 4 | Prototype, roles, subagents | **4A** BRD to clickable prototype, 4B Reviewer subagent, 4C Parallel consistency check | `prototype/index.html`; `brd-review.md`; `consistency-report.md` |
 | 5 | Memory and the working system | **5A** Project memory file, **5B** Your own 30-day pilot, 5C Cost, tokens and rollback, 5D Demo day and 90-day plan | `CLAUDE.md` in `workspace/work/`; `my-30-day-pilot.md`; `cost-and-rollback.md`; `demo-script.md` + `90-day-plan.md` |
 | Bonus | Documents as agent knowledge | 6A Read-only policy researcher | `source-map.md`, `policy-answers.md` |
+| Bonus | Roles and automation | 7A Project Manager: pre-mortem and status, 7B Technical Project Manager: dependencies and release risks, 7C Proactive agent, 7D Telegram bot (optional) | `pm-premortem.md` + `pm-status.md`; `tpm-dependency-map.md` + `tpm-release-risks.md`; `proactive/` (prompt file, `run-notes.md`, one report); `telegram-bot/` + `README-for-me.md` |
 
 The Work-track world is in `WORK-CASE.md`; its data is in `data/corvane/`.
 

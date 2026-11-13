@@ -45,6 +45,10 @@ Practice by live group session. Core missions are marked "core".
 - [ ] 5D - Demo day and 90-day plan
 - [ ] 5P - Save and publish your prototype (open group, session 5)
 - [ ] 6A - Read-only policy researcher (bonus)
+- [ ] 7A - Project Manager: pre-mortem and status (bonus)
+- [ ] 7B - Technical Project Manager: dependencies and release risks (bonus)
+- [ ] 7C - Proactive agent: the report runs by itself (bonus)
+- [ ] 7D - Telegram bot (optional bonus)
 
 ---
 
