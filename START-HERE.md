@@ -21,7 +21,7 @@ Your mentor asks which one you want after the first greeting. You can switch any
 
 1. **Claude Code installed.** Not installed yet? Follow the [Quick Guide: INSTALL.md](INSTALL.md) - it takes 5-10 minutes from zero. (Or see https://docs.claude.com/claude-code.)
 2. **This folder, unzipped**, somewhere you can find it (Desktop is fine). Do not have it yet, and never used GitHub? Follow the [Quick Guide: GET-THIS-PROJECT.md](GET-THIS-PROJECT.md) - no account needed, 2 minutes.
-3. **15-20 minutes per mission.** There are 11 core missions, two optional bonus stops (Go Live and Power Tools), and a capstone wrap-up. Do one a day or binge them. Your progress is saved.
+3. **15-20 minutes per mission.** There are 10 core missions, two optional bonus stops (Go Live and Power Tools), and a capstone wrap-up. Do one a day or binge them. Your progress is saved.
 
 ---
 

@@ -1,6 +1,6 @@
 # Showcase - people who finished the bootcamp
 
-This is the board. Everyone here started from zero, ran all 11 missions, and shipped real work with Claude Code. Add yourself when you finish.
+This is the board. Everyone here started from zero, ran all core missions, and shipped real work with Claude Code. Add yourself when you finish.
 
 ## How to get on the board (your last git rep)
 
@@ -26,3 +26,5 @@ Keep your row to one line. Link your own repo or your live MVP if you have one -
 ---
 
 Finished and want to keep going on your real work, with people doing the same? That is what the **AI Sandbox Lab** is for. Bring your repo, ask your questions, keep the momentum.
+
+Want instructors, a group and a demo day? The **AI Sandbox Lab** live group is 6 sessions where you connect your real work services, build a proactive agent, and leave with a 90-day plan for your team: [AISandboxLab.com](https://aisandboxlab.com/en).

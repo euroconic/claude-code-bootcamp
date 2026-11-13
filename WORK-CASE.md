@@ -55,3 +55,18 @@ The track follows the order of a live group program: one folder per session in `
 | Bonus | Documents as agent knowledge | 6A Read-only policy researcher | |
 
 The last mission, 5B, leaves Corvane behind: you pick a chore from your own job and plan the next 30 days around it. That is the point of the whole track.
+
+## In the open live group? Use this table
+
+The table above follows the 5-session team program. The open live group at [AISandboxLab.com](https://aisandboxlab.com/en) has 6 sessions in a different order, and the sixth is a demo day. If you are in that group, find the session you just had here and start with its core mission. Tell your mentor "I'm in the open group, we just had session 3" and it will open the right one.
+
+| Your live session | Theme | Core mission | Stretch |
+|---|---|---|---|
+| 1 | From chat to tool | 1A Invoices to a checked spreadsheet | 1B Merge five messy files |
+| 2 | An idea becomes a plan and a prototype | 4A BRD to clickable prototype | 2C Transcript to BRD |
+| 3 | Memory, skills and your own agents | 2A Meeting transcript to follow-up, then a skill | 2B Verifier skill, 5A Project memory file, 4B Reviewer subagent |
+| 4 | Connecting services (MCP) | 3A Exchange-rate skill and spend report | 3B Weekly change-request report |
+| 5 | MVP and publishing | 5P Save and publish your prototype | 4C Parallel consistency check |
+| 6 | Demo day and AI at work | 5B Your own 30-day pilot | 6A Read-only policy researcher |
+
+5P has no folder of its own: it reuses the steps of Signal missions 09 (save with git) and 10 (go live) on your 4A prototype. Publishing stays optional, as in mission 10.

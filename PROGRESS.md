@@ -40,6 +40,7 @@ Practice by live group session. Core missions are marked "core".
 - [ ] 4C - Parallel consistency check
 - [ ] 5A - Project memory file (core)
 - [ ] 5B - Your own 30-day pilot (core)
+- [ ] 5P - Save and publish your prototype (open group, session 5)
 - [ ] 6A - Read-only policy researcher (bonus)
 
 ---

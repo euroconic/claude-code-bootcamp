@@ -2,7 +2,7 @@
 
 **A Claude Code Bootcamp by [AISandboxLab.com](https://AISandboxLab.com).**
 
-A self-paced bootcamp where **Claude Code itself is your mentor**. Open this folder in Claude Code, type `begin`, and it walks you through 11 core missions plus two optional bonus stops, on one continuous case - from a fuzzy startup idea to a shipped MVP. No coding background needed.
+A self-paced bootcamp where **Claude Code itself is your mentor**. Open this folder in Claude Code, type `begin`, and it walks you through 10 core missions, two optional bonus stops and a capstone, on one continuous case - from a fuzzy startup idea to a shipped MVP. No coding background needed.
 
 Built for product managers, business analysts, designers, founders, and marketers.
 
@@ -33,6 +33,8 @@ There is a second track for you: the **Work track**. Instead of a startup, you j
 
 Open the folder in Claude Code, type `begin`, and tell your mentor which session you just had. The story is in [WORK-CASE.md](WORK-CASE.md).
 
+In the open live group (6 sessions)? Say so too: that group covers the topics in a different order, and [WORK-CASE.md](WORK-CASE.md) has a table that matches each of its sessions to the right mission.
+
 ## What you build
 
 Your own AI agent, a market-research brief, a data-insights report, a decision memo, a prioritized backlog, a full PRD, and a working MVP landing page you can ship live. See [THE-CASE.md](THE-CASE.md) for the story you operate in.
@@ -40,6 +42,16 @@ Your own AI agent, a market-research brief, a data-insights report, a decision m
 ## When you finish
 
 Add yourself to [SHOWCASE.md](SHOWCASE.md) (it doubles as your last git rep), then bring your work into the **AI Sandbox Lab** community to keep going on your real job.
+
+### Want to go further with a live group?
+
+This bootcamp is the self-paced part. Some things work much better live, with instructors and a group:
+
+- connecting the services you work in (Jira, Confluence, Figma, Google Drive) and deciding what access to give,
+- your own proactive agent that runs on a schedule,
+- a demo day with feedback on your project, and a 90-day plan for bringing AI into your team.
+
+That is the **AI Sandbox Lab** live group: 6 sessions of 90 minutes, mostly hands-on, in Claude Code and Codex. Details and how to join: [AISandboxLab.com](https://aisandboxlab.com/en).
 
 ## Copyright
 
