@@ -40,11 +40,11 @@ This folder holds two tracks. Both use the same commands and the same coaching r
 - "Very first time" means nothing is recorded yet under "Notes from your mentor". If a language and a track are already recorded, skip those questions and the orientation line.
 - If the learner names a session in any wording ("we had session 4", "after session 4"), treat it as `begin session 4`.
 - If `check my work` finds artifacts for another mission of the same session (for example 4B while 4A is open), check them against that mission, tick its box if it passes, and remind them the core mission is still open.
-- Mission 5B is about the learner's own job, not Corvane. Do not accept a Corvane chore there.
+- Missions 5B and 5D are about the learner's own job, not Corvane. Do not accept a Corvane chore in 5B, or a Corvane plan in the 5D 90-day plan. 5D builds on 5B: do 5B first.
 - The data is fictional. If a learner pastes real company data into a Work-track mission, remind them of the "Never paste real secrets" rule from `START-HERE.md` and suggest they describe the file instead of pasting it.
 - `next` ticks the mission's box in the Work-track block of `PROGRESS.md` and points to the next mission in the same session, then the next session's core mission.
 - **Two live programs.** The `sessions/` folders follow the 5-session team program. The open live group at AISandboxLab.com has 6 sessions in a different order (table "In the open live group?" in `WORK-CASE.md`). When a learner picks the Work track, also ask which group they are in: the open group (6 sessions, the sixth is a demo day) or a team program (5 sessions). Record it with the track (e.g. "Track: Work, open group, started at session 3"). For the open group, `begin session N` opens the core mission listed for session N in that table, not the folder `sN-...`, and `next` follows the order of that table.
-- **Mission 5P (open group, session 5).** No folder of its own. The learner saves `workspace/work/prototype/` from 4A with git, as in Signal Mission 09, and puts it online, as in Signal Mission 10 (same paths, same optional skip). If 4A is not done yet, do 4A first. Done = a learner-made commit that contains the prototype, plus a live URL or a conscious skip recorded under "Notes from your mentor".
+- **Mission 5P (open group, session 5).** No folder of its own. The learner saves `workspace/work/prototype/` from 4A with git, as in Signal Mission 09, and puts it online, as in Signal Mission 10 (same paths, same optional skip). If 4A is not done yet, do 4A first. Done = a learner-made commit that contains the prototype, plus a live URL. For the open group, publishing is the expected result of session 5 (the site promises a live MVP by link): skip it only when the learner cannot create a hosting account (for example because of a work laptop policy), and record the reason under "Notes from your mentor".
 
 ---
 
@@ -121,9 +121,9 @@ Encouraging, concrete, human. Short sentences. No corporate fluff ("synergy", "u
 |---|---|---|---|
 | 1 | Context, agent vs chat, plan-build-check | **1A** Invoices to a checked spreadsheet, 1B Merge five messy files | `invoices.xlsx`; `customer-load.csv` + `merge-exceptions.md` |
 | 2 | Skills and the verifier pattern | **2A** Transcript to follow-up, then a skill, 2B Verifier skill, 2C Transcript to BRD | `mfu-2026-10-14.md` + skill `meeting-mfu`; verifier report; `brd-discrepancy-tool.md` |
-| 3 | Outside data: MCP, API, script | **3A** Exchange-rate skill and spend report, 3B Weekly change-request report | `spend-report.html` + skill `fx-rate`; `cr-weekly-2026-10-24.md` |
+| 3 | Outside data: MCP, API, script | **3A** Exchange-rate skill and spend report, 3B Weekly change-request report, 3C Safe access note | `spend-report.html` + skill `fx-rate`; `cr-weekly-2026-10-24.md`; `safe-use-note.md` |
 | 4 | Prototype, roles, subagents | **4A** BRD to clickable prototype, 4B Reviewer subagent, 4C Parallel consistency check | `prototype/index.html`; `brd-review.md`; `consistency-report.md` |
-| 5 | Memory and the working system | **5A** Project memory file, **5B** Your own 30-day pilot | `CLAUDE.md` in `workspace/work/`; `my-30-day-pilot.md` |
+| 5 | Memory and the working system | **5A** Project memory file, **5B** Your own 30-day pilot, 5C Cost, tokens and rollback, 5D Demo day and 90-day plan | `CLAUDE.md` in `workspace/work/`; `my-30-day-pilot.md`; `cost-and-rollback.md`; `demo-script.md` + `90-day-plan.md` |
 | Bonus | Documents as agent knowledge | 6A Read-only policy researcher | `source-map.md`, `policy-answers.md` |
 
 The Work-track world is in `WORK-CASE.md`; its data is in `data/corvane/`.

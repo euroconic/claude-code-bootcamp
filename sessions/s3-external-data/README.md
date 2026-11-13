@@ -27,5 +27,6 @@ MCP setup with tokens is **optional** in this session. You never need it to pass
 |---|---|---|---|
 | [3A](MISSION-3A.md) Exchange-rate skill and spend report | 30-40 min | Core | Build the `fx-rate` skill, convert the Norden invoice to PLN, produce a spend report |
 | [3B](MISSION-3B.md) Weekly change-request report | 30-45 min | Stretch | Turn a tracker export into the Friday status report |
+| [3C](MISSION-3C.md) Safe access: permissions, keys, and what never goes to an agent | 30 min | Stretch (open group: session 4) | Sort data into green, amber and red, choose read-only or write for each connection, and write a one-page safe-use note for IT |
 
-Finished work goes into `workspace/work/`. Data is in `data/corvane/s1/` (3A) and `data/corvane/s3/` (3B).
+Finished work goes into `workspace/work/`. Data is in `data/corvane/s1/` (3A) and `data/corvane/s3/` (3B and 3C).

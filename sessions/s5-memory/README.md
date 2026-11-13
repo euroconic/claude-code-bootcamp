@@ -17,7 +17,9 @@ Rule of thumb: if you find yourself explaining the same thing to the agent twice
 |---|---|---|---|
 | 5A | Project memory file for the Corvane work | 20 min | Core |
 | 5B | Your own 30-day pilot (your real job, not Corvane) | 30 min | Core |
+| [5C](MISSION-5C.md) | Cost, tokens, and rollback | 30 min | Stretch |
+| [5D](MISSION-5D.md) | Demo day and your 90-day plan (your real job, not Corvane) | 30 min | Stretch, builds on 5B |
 
 Data: `data/corvane/s5/pilot-card-template.md`. Output goes to `workspace/work/`.
 
-Do 5A first: it is short and gives you the vocabulary. 5B is the point of the whole Work track.
+Do 5A first: it is short and gives you the vocabulary. 5B is the point of the whole Work track. 5C answers "what does it cost, and what if it breaks something?". 5D turns your 5B pilot into a demo and a 90-day plan, so do 5B before it.

@@ -35,11 +35,14 @@ Practice by live group session. Core missions are marked "core".
 - [ ] 2C - Transcript to BRD
 - [ ] 3A - Exchange-rate skill and spend report (core)
 - [ ] 3B - Weekly change-request report
+- [ ] 3C - Safe access note
 - [ ] 4A - BRD to clickable prototype (core)
 - [ ] 4B - Reviewer subagent
 - [ ] 4C - Parallel consistency check
 - [ ] 5A - Project memory file (core)
 - [ ] 5B - Your own 30-day pilot (core)
+- [ ] 5C - Cost, tokens and rollback
+- [ ] 5D - Demo day and 90-day plan
 - [ ] 5P - Save and publish your prototype (open group, session 5)
 - [ ] 6A - Read-only policy researcher (bonus)
 

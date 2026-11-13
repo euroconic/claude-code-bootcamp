@@ -36,7 +36,7 @@ Everything lives in `data/corvane/`, one folder per session:
 
 - `s1/` - three supplier invoices (PDF), the matching purchase-order export, and five regional customer files that need merging.
 - `s2/` - two meeting transcripts and a short BRD template.
-- `s3/` - a task-tracker export with change requests.
+- `s3/` - a task-tracker export with change requests, a list of twelve data items to sort by risk, and a draft connection file with a planted problem.
 - `s4/` - a draft BRD with problems in it, and a requirements pack to check for contradictions.
 - `s5/` - a 30-day pilot card template.
 - `s6/` - a folder of Corvane policies.
@@ -49,12 +49,12 @@ The track follows the order of a live group program: one folder per session in `
 |---|---|---|---|
 | 1 | Context, agent vs chat, plan-build-check | 1A Invoices to a checked spreadsheet | 1B Merge five messy files |
 | 2 | Skills and the verifier pattern | 2A Meeting transcript to follow-up, then a skill | 2B Verifier skill, 2C Transcript to BRD |
-| 3 | Outside data: MCP, API, script | 3A Exchange-rate skill and spend report | 3B Weekly change-request report |
+| 3 | Outside data: MCP, API, script | 3A Exchange-rate skill and spend report | 3B Weekly change-request report, 3C Safe access note |
 | 4 | Prototype, roles, subagents | 4A BRD to clickable prototype | 4B Reviewer subagent, 4C Parallel consistency check |
-| 5 | Memory and your working system | 5A Project memory file | 5B Your own 30-day pilot |
+| 5 | Memory and your working system | 5A Project memory file, 5B Your own 30-day pilot | 5C Cost, tokens and rollback, 5D Demo day and 90-day plan |
 | Bonus | Documents as agent knowledge | 6A Read-only policy researcher | |
 
-The last mission, 5B, leaves Corvane behind: you pick a chore from your own job and plan the next 30 days around it. That is the point of the whole track.
+The 5B mission leaves Corvane behind: you pick a chore from your own job and plan the next 30 days around it. That is the point of the whole track. 5D builds on it: a 3-minute demo and a 90-day plan, also about your own job.
 
 ## In the open live group? Use this table
 
@@ -65,8 +65,8 @@ The table above follows the 5-session team program. The open live group at [AISa
 | 1 | From chat to tool | 1A Invoices to a checked spreadsheet | 1B Merge five messy files |
 | 2 | An idea becomes a plan and a prototype | 4A BRD to clickable prototype | 2C Transcript to BRD |
 | 3 | Memory, skills and your own agents | 2A Meeting transcript to follow-up, then a skill | 2B Verifier skill, 5A Project memory file, 4B Reviewer subagent |
-| 4 | Connecting services (MCP) | 3A Exchange-rate skill and spend report | 3B Weekly change-request report |
-| 5 | MVP and publishing | 5P Save and publish your prototype | 4C Parallel consistency check |
-| 6 | Demo day and AI at work | 5B Your own 30-day pilot | 6A Read-only policy researcher |
+| 4 | Connecting services (MCP) | 3A Exchange-rate skill and spend report | 3B Weekly change-request report, 3C Safe access note |
+| 5 | MVP and publishing | 5P Save and publish your prototype | 5C Cost, tokens and rollback, 4C Parallel consistency check |
+| 6 | Demo day and AI at work | 5B Your own 30-day pilot, then 5D Demo day and 90-day plan | 6A Read-only policy researcher |
 
-5P has no folder of its own: it reuses the steps of Signal missions 09 (save with git) and 10 (go live) on your 4A prototype. Publishing stays optional, as in mission 10.
+5P has no folder of its own: it reuses the steps of Signal missions 09 (save with git) and 10 (go live) on your 4A prototype. For the open group, publishing is the expected result of session 5: the site promises a live MVP you can open by link. Skip it only when you cannot create a hosting account (for example because of a work laptop policy), and the reason is written down under "Notes from your mentor".
