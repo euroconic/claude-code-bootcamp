@@ -8,6 +8,15 @@ You will be playing a role: **founding Product Manager at a startup called "Sign
 
 ---
 
+## Two tracks: pick one
+
+- **Signal track** (the default): you are the founding Product Manager at a startup, and you take an idea to a shipped web page. Best if you are learning on your own.
+- **Work track**: you join Corvane Supply, a fictional company, and practice on documents, spreadsheets, reports, and requirements. It follows the sessions of a live group program. Best if you are in a live group, or if your job looks more like an office than a startup. Story: [WORK-CASE.md](WORK-CASE.md).
+
+Your mentor asks which one you want after the first greeting. You can switch any time by saying so.
+
+---
+
 ## What you need (5 minutes of setup)
 
 1. **Claude Code installed.** Not installed yet? Follow the [Quick Guide: INSTALL.md](INSTALL.md) - it takes 5-10 minutes from zero. (Or see https://docs.claude.com/claude-code.)

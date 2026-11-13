@@ -27,6 +27,12 @@ No account needed, this takes about 2 minutes:
 
 Full version with pictures-in-words for every step: [GET-THIS-PROJECT.md](GET-THIS-PROJECT.md).
 
+## Came here after a live group session?
+
+There is a second track for you: the **Work track**. Instead of a startup, you join Corvane Supply, a fictional distributor, and practice on everyday office work: invoices into a checked spreadsheet, meeting transcripts into follow-ups and requirements, exchange-rate and status reports, a clickable prototype, a reviewer agent, and your own 30-day pilot. It is organized by session, so after session 3 you practice session 3.
+
+Open the folder in Claude Code, type `begin`, and tell your mentor which session you just had. The story is in [WORK-CASE.md](WORK-CASE.md).
+
 ## What you build
 
 Your own AI agent, a market-research brief, a data-insights report, a decision memo, a prioritized backlog, a full PRD, and a working MVP landing page you can ship live. See [THE-CASE.md](THE-CASE.md) for the story you operate in.

@@ -1,0 +1,75 @@
+Corvane Supply - call recording, auto-transcript (not edited)
+Date: 21 October 2026, 10:00-10:07
+Participants: Marta Kowal (Head of Supplier Reconciliation), Irene Holt (Senior Business Analyst), Tomasz Wren (Project Office), Ola Sadowska (Reconciliation Analyst)
+
+[00:00] Irene: Okay, recording is on. Marta, Tomasz, Ola, you're all here?
+[00:05] Marta: Here.
+[00:06] Tomasz: Here. Heads up, I have a hard stop at ten-ten, steering committee.
+[00:11] Ola: Hi. I'm in the office today. No train, no tunnel. Finally.
+[00:16] Marta: A miracle.
+[00:18] Irene: Okay. Plan is, last week's six items first, then new things. Tomasz, the change request first, since you have to leave early.
+[00:28] Tomasz: Done. Registered on Friday the sixteenth like I said. It's COR-101. Status is Backlog, nobody has picked it up yet. I put the pilot scope in the description, two suppliers.
+[00:41] Irene: Good. Ola, the mismatch log?
+[00:44] Ola: Sent on the sixteenth. Three months, one file, around four hundred lines. I cleaned the dates but not the supplier names, so Baltic Pack is written three different ways. Sorry.
+[00:57] Irene: It's fine, I got the numbers I need. And you did the top ten?
+[01:02] Ola: Yes. Baltic Pack is first, forty-one mismatched lines. Second is Vistula Paper, thirty-three. Norden Clean is third, twenty-nine. After that nobody has more than twelve.
+[01:16] Marta: Vistula? I did not expect that.
+[01:19] Ola: It's mostly small price differences. Not scary.
+[01:23] Irene: So both pilot suppliers are in the top three. Do we add Vistula?
+[01:28] Marta: Not in the first month. Keep the scope tight. We look at Vistula after the pilot month.
+[01:34] Tomasz: Agree.
+[01:36] Irene: Marta, finance?
+[01:38] Marta: I asked. I spoke to Anita in finance on Monday. Payment holds are allowed, but they need our request three working days before the due date. After that the payment run is locked. And they want a short written reason for each held invoice.
+[01:55] Tomasz: Three working days. That's tight around month-end.
+[01:59] Marta: It's workable if we catch things when the invoice is entered, not at the end.
+[02:05] Irene: Right. I'll note it as a risk.
+[02:09] Marta: I asked the euro question too. Anita said invoice date, NBP rate, that's what finance uses for reporting. So that one is closed.
+[02:19] Irene: Good. Decision: EUR invoices are converted at the NBP rate of the invoice date.
+[02:25] Tomasz: Fine by me.
+[02:27] Ola: Told you. I said invoice date.
+[02:30] Marta: You said "I think."
+[02:32] Irene: And my items. I booked this call, obviously. The BRD first draft is on track for Wednesday the twenty-eighth.
+[02:40] Irene: Now the thing I wanted to talk about. The tolerance. While writing the requirements I tried the fifty zloty rule on Ola's log and it doesn't hold up.
+[02:50] Ola: I looked at that too. A line worth eighty zloty with a forty-five zloty difference is more than half the line, and we would just accept it. And on a big line, fifty zloty is nothing.
+[03:02] Irene: So what would you use?
+[03:04] Marta: A percentage. One percent of the line value. Small line, small tolerance. Big line, bigger tolerance.
+[03:12] Tomasz: One percent per line, instead of the fifty?
+[03:16] Marta: Instead of the fifty. Yes. We drop the fifty zloty rule completely.
+[03:21] Irene: Let me say it back so it's on the record. Decision: tolerance is one percent of the line value. The fifty PLN per line rule from last week is cancelled. Correct?
+[03:31] Marta: Correct.
+[03:32] Ola: Example, the Baltic Pack cartons. Line is two thousand three hundred fifty, one percent is twenty-three fifty, and the overcharge is two hundred. So it gets flagged. With fifty it would be flagged too, actually. Okay, bad example.
+[03:46] Marta: Good example of a bad example.
+[03:50] Tomasz: The change request still has the old number in the description. I'll fix that on Thursday, the twenty-second.
+[03:57] Irene: Tomasz, update the change request with the new tolerance, Thursday the twenty-second.
+[04:02] Tomasz: Yes.
+[04:04] Irene: Ola, could you re-run the three-month log with the one percent rule? I want to know how many lines it flags compared to the fifty rule.
+[04:13] Ola: Sure. Friday the twenty-third.
+[04:16] Irene: Friday the twenty-third. Thanks.
+[04:19] Irene: The ERP export question is still open from the kickoff. Can it export PO lines automatically? Has anyone heard anything?
+[04:27] Marta: Not me.
+[04:28] Tomasz: Nobody asked IT. Someone should ask IT about the ERP export. And whether the December upgrade changes the format.
+[04:38] Marta: Yes, we really need to know that before the BRD is final.
+[04:43] Irene: Okay. I'll keep it in the open questions.
+[04:47] Tomasz: Sorry, my phone. I have to go in a minute.
+[04:50] Irene: One more from the kickoff. Who closes a discrepancy, reconciliation or the buyer? Marta?
+[04:57] Marta: I haven't asked Dariusz yet, the purchasing head. He was on holiday. I'll ask him. I'll have an answer by Tuesday the twenty-seventh.
+[05:07] Irene: Marta, ask the purchasing head who closes a discrepancy, by Tuesday the twenty-seventh.
+[05:13] Marta: Yes.
+[05:15] Tomasz: Okay, I really have to run. Anything else for me?
+[05:19] Irene: No. Thanks, Tomasz.
+[05:21] Tomasz: Bye.
+[05:22] [Tomasz leaves the call]
+[05:25] Ola: Irene, sorry, about my Friday thing. I forgot, I'm at the audit visit Thursday and Friday this week. Can I move the re-run? End of next week, the thirtieth?
+[05:38] Irene: That's month-end, our worst week. But it's one file, so fine. Let's say end of next week, the thirtieth.
+[05:46] Marta: One script, Ola. An hour. But fine.
+[05:50] Ola: Thank you. It is exactly an hour, I measured.
+[05:55] Marta: Has anyone tried the new coffee machine on the second floor? It makes a noise like a plane.
+[06:01] Ola: The spreadsheet is thirteen tabs now, by the way. I added one for the Vistula numbers.
+[06:08] Irene: Please don't add more. Okay, one last check. Risk, finance needs payment hold requests three working days before the due date. So we must catch mismatches early. Marta, yes?
+[06:20] Marta: Yes. That is the new risk.
+[06:24] Irene: And the two risks from last week stay: no capacity in the last week of the month, and the ERP export format after the December upgrade.
+[06:35] Ola: Still sad about the second one.
+[06:39] Irene: Okay, let's wrap. I'll work on the BRD. Thanks all.
+[06:44] Marta: Thanks, good call.
+[06:46] Ola: Bye!
+[06:48] [recording ends]

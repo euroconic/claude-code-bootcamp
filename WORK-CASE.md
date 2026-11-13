@@ -1,0 +1,57 @@
+# The Work Case: Corvane Supply
+
+This is the world of the **Work track**. The Signal track (in `THE-CASE.md`) is a startup story. This one is about a normal company with normal, repetitive office work: invoices, meeting notes, requirements, reports, policies. If you came here after a live group session, this is your practice ground.
+
+Everything here is fictional. The company, the people, the suppliers, and all numbers are made up for training.
+
+---
+
+## The company
+
+**Corvane Supply** is a regional wholesale distributor based in Poznań, Poland. About 400 people. It buys packaging, paper, and cleaning products from suppliers in Poland and Germany, and sells them to hotels, restaurants, offices, and small retail chains.
+
+Corvane runs on an old ERP system, many Excel files, email, and a task tracker. Nothing is broken, but a lot of skilled people spend hours a week copying numbers between files, writing the same kinds of documents, and chasing the same kinds of answers.
+
+## Your role
+
+You just joined Corvane's **AI working group**: a small team the COO set up to find out where AI agents can take real hours off people's weeks. You are not a developer. You are an analyst, project manager, or operations person, like most of the people you will help.
+
+Your job is to take one real chore at a time, do it with an AI agent, and leave behind something reusable: a file, a skill, a reviewer, a report, a prototype.
+
+## The people you work with
+
+- **Lena Brandt, COO.** Sponsor of the AI working group. Wants hours saved and fewer errors, not demos.
+- **Marta Kowal, Head of Supplier Reconciliation.** Her team checks every supplier invoice against what was ordered. They find mistakes by eye, in Excel, late in the month.
+- **Irene Holt, Senior Business Analyst.** Writes requirements (BRDs) after long calls with the business. Her bottleneck is turning a 40-minute call into a clean document.
+- **Tomasz Wren, Project Office lead.** Owns the change-request (CR) process. Every Friday he builds a status report by hand from a tracker export.
+- **Paweł Nowicki, Operational Excellence.** Owns company policies and process rules. Gets the same questions about them every week.
+
+## The project everyone is circling
+
+Marta's team wants a **supplier discrepancy tool**: something that catches price and quantity mismatches between invoices and purchase orders before payment, shows them on one screen, and lets the team resolve them with a comment trail. Irene is writing the requirements. Tomasz is tracking it as a change request. You will touch it from every side.
+
+## What you have to work with
+
+Everything lives in `data/corvane/`, one folder per session:
+
+- `s1/` - three supplier invoices (PDF), the matching purchase-order export, and five regional customer files that need merging.
+- `s2/` - two meeting transcripts and a short BRD template.
+- `s3/` - a task-tracker export with change requests.
+- `s4/` - a draft BRD with problems in it, and a requirements pack to check for contradictions.
+- `s5/` - a 30-day pilot card template.
+- `s6/` - a folder of Corvane policies.
+
+## How the Work track is organized
+
+The track follows the order of a live group program: one folder per session in `sessions/`. Each session has a core mission (about 30 minutes) and one or two stretch missions. Your finished work goes into `workspace/work/`.
+
+| Session | Theme | Core mission | Stretch |
+|---|---|---|---|
+| 1 | Context, agent vs chat, plan-build-check | 1A Invoices to a checked spreadsheet | 1B Merge five messy files |
+| 2 | Skills and the verifier pattern | 2A Meeting transcript to follow-up, then a skill | 2B Verifier skill, 2C Transcript to BRD |
+| 3 | Outside data: MCP, API, script | 3A Exchange-rate skill and spend report | 3B Weekly change-request report |
+| 4 | Prototype, roles, subagents | 4A BRD to clickable prototype | 4B Reviewer subagent, 4C Parallel consistency check |
+| 5 | Memory and your working system | 5A Project memory file | 5B Your own 30-day pilot |
+| Bonus | Documents as agent knowledge | 6A Read-only policy researcher | |
+
+The last mission, 5B, leaves Corvane behind: you pick a chore from your own job and plan the next 30 days around it. That is the point of the whole track.

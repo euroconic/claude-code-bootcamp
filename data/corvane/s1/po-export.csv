@@ -1,0 +1,10 @@
+po_number,supplier,sku,description,qty_ordered,unit_price_agreed,currency
+PO-26-0412,Vistula Paper sp. z o.o.,VP-KB20,Kraft bags 20L,400,0.62,PLN
+PO-26-0412,Vistula Paper sp. z o.o.,VP-PTZ,Paper towels Z-fold carton,120,38.50,PLN
+PO-26-0412,Vistula Paper sp. z o.o.,VP-NP33,Napkins 33x33 pack,300,4.10,PLN
+PO-26-0431,Baltic Pack sp. z o.o.,BP-SF23,Stretch film 23mic 500mm roll,60,41.00,PLN
+PO-26-0431,Baltic Pack sp. z o.o.,BP-CB433,Carton box 400x300x300,1000,2.15,PLN
+PO-26-0431,Baltic Pack sp. z o.o.,BP-PT48,Packing tape 48mm,240,5.90,PLN
+PO-26-0437,Norden Clean GmbH,NC-FC10,Floor cleaner 10L,80,18.40,EUR
+PO-26-0437,Norden Clean GmbH,NC-DD05,Dish detergent 5L,120,7.25,EUR
+PO-26-0437,Norden Clean GmbH,NC-HS01,Hand soap refill 1L,200,3.10,EUR

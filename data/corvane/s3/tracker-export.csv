@@ -1,0 +1,31 @@
+key,type,summary,status,owner,team,created,due,updated,estimate_days,spent_days
+COR-101,CR,Supplier discrepancy tool: first release,In progress,Tomasz Wren,Project Office,2026-10-16,2026-11-15,2026-10-22,20,12
+COR-102,CR,Daily ERP export of purchase-order lines,In progress,Jan Mazur,IT,2026-09-20,2026-10-20,2026-10-21,8,9.5
+COR-103,Bug,Invoice import drops lines with empty SKU,In progress,Jan Mazur,IT,2026-10-01,2026-10-19,2026-10-22,2,1
+COR-104,CR,Payment hold flag in ERP,Blocked,Marta Kowal,Finance Systems,2026-09-25,2026-10-18,2026-10-20,6,2
+COR-105,Task,Collect mismatch log for last three months,Done,Ola Sadowska,Reconciliation,2026-10-14,2026-10-16,2026-10-16,1,1
+COR-106,CR,Credit note approval workflow,In review,Kasia Lis,Finance Systems,2026-09-30,2026-10-30,2026-10-23,10,11
+COR-107,CR,Supplier onboarding form update,Backlog,Irene Holt,Procurement,2026-09-10,2026-12-01,2026-10-01,5,0
+COR-108,Task,Prepare test data for discrepancy pilot,In progress,Ola Sadowska,Reconciliation,2026-10-16,2026-10-27,2026-10-23,3,4
+COR-109,CR,Customer master clean-up rules,Done,Piotr Zajac,Sales Ops,2026-09-01,2026-10-10,2026-10-12,7,9
+COR-110,Bug,Wrong VAT rate shown on EUR reverse-charge lines,Backlog,Kasia Lis,Finance Systems,2026-10-05,2026-10-16,2026-10-06,2,0
+COR-111,CR,Monthly spend dashboard,In progress,Ola Sadowska,Reporting,2026-10-02,2026-11-05,2026-10-22,12,6
+COR-112,CR,Archive rules for old invoices,Backlog,,Finance Systems,2026-10-08,2026-11-20,2026-10-19,4,0
+COR-113,Task,Update supplier contact list,Backlog,,Procurement,2026-10-12,2026-11-10,2026-10-12,2,0
+COR-114,CR,EUR conversion at invoice-date rate,In review,Ola Sadowska,Finance Systems,2026-10-09,2026-10-22,2026-10-23,3,3
+COR-115,CR,Delivery note matching,Backlog,Jan Mazur,Warehouse IT,2026-09-05,2026-11-30,2026-10-03,15,0
+COR-116,Bug,Report export loses Polish characters,Done,Piotr Zajac,Reporting,2026-10-02,2026-10-09,2026-10-08,1,1.5
+COR-117,CR,Return reason codes,In progress,Piotr Zajac,Sales Ops,2026-09-22,2026-10-28,2026-10-09,6,4
+COR-118,Task,Review payment terms list with Operational Excellence,In progress,Irene Holt,Procurement,2026-10-13,2026-10-21,2026-10-22,2,2.5
+COR-119,CR,Weekly change-request status report automation,In progress,Tomasz Wren,Project Office,2026-10-10,2026-10-31,2026-10-23,5,2
+COR-120,CR,Buyer notification for disputed lines,Backlog,,Procurement,2026-10-14,2026-11-25,2026-10-22,6,0
+COR-121,Bug,Supplier code shown twice in search,Backlog,Jan Mazur,IT,2026-08-20,2026-09-30,2026-09-15,1,0
+COR-122,CR,Price list import checks,Done,Kasia Lis,Procurement,2026-09-12,2026-10-15,2026-10-14,8,7
+COR-123,Task,Train two buyers on the discrepancy screen,Backlog,Marta Kowal,Reconciliation,2026-10-20,2026-11-12,2026-10-20,2,0
+COR-124,CR,Supplier scorecard,In progress,Irene Holt,Reporting,2026-09-28,2026-11-12,2026-10-10,9,5
+COR-125,CR,Purchase order change log,Blocked,Jan Mazur,IT,2026-09-18,2026-10-23,2026-10-16,10,10.5
+COR-126,Task,Document the month-end close steps,Done,Marta Kowal,Reconciliation,2026-10-01,2026-10-20,2026-10-19,3,3
+COR-127,Bug,Duplicate email to buyers on dispute close,In review,Kasia Lis,Finance Systems,2026-10-17,2026-10-25,2026-10-23,2,1
+COR-128,Task,Archive old tracker projects,Backlog,Tomasz Wren,Project Office,2026-09-02,2026-10-31,2026-09-30,1,0
+COR-129,Bug,Slow load of the supplier list,In progress,Jan Mazur,IT,2026-10-19,2026-11-02,2026-10-23,3,1
+COR-130,Task,Weekly supplier call notes,In progress,Ola Sadowska,Reconciliation,2026-10-06,2026-10-23,2026-10-21,2,1

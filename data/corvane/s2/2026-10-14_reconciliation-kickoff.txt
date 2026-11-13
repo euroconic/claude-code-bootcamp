@@ -1,0 +1,80 @@
+Corvane Supply - call recording, auto-transcript (not edited)
+Date: 14 October 2026, 10:00-10:07
+Participants: Marta Kowal (Head of Supplier Reconciliation), Irene Holt (Senior Business Analyst), Tomasz Wren (Project Office), Ola Sadowska (Reconciliation Analyst)
+
+[00:00] Tomasz: Okay, I think we're all here. Ola, can you hear us? You were frozen for a second.
+[00:06] Ola: Yes, yes, sorry, I'm on the train wifi, it's, uh, it's what it is.
+[00:11] Tomasz: Fine. So, this is the kickoff for the discrepancy thing. Marta, you asked for it, so maybe you start.
+[00:18] Marta: Sure. So, um, the short version. Every month-end my team checks supplier invoices against the purchase orders. By hand. Ola has a spreadsheet, it's, how many tabs is it now?
+[00:29] Ola: Eleven. Twelve if you count the one I hide.
+[00:32] Marta: Twelve tabs. And it takes us two and a half days every month-end, two and a half days of three people, just comparing prices and quantities. And the worst part is we still miss things. Last quarter we found fourteen thousand zloty of overcharges, but we found them after we paid. After. Then you chase the supplier for a credit note for two months.
+[00:55] Irene: Fourteen thousand in one quarter?
+[00:57] Marta: In one quarter. Mostly small stuff. A price that went up five groszy and nobody told us. Quantities, someone invoices a hundred and fifty when we ordered a hundred and twenty.
+[01:08] Tomasz: And that's across all suppliers?
+[01:10] Marta: All of them, but honestly it's a few. Ola knows.
+[01:14] Ola: Yeah, it's, like, Baltic Pack is the classic one. Prices drift. And Norden, the German one, quantities. The rest is noise mostly.
+[01:22] Irene: Okay. So before we design anything, what does "done" look like for you, Marta? If this works, what changes?
+[01:30] Marta: We see the mismatches before we pay, not after. And we see them in one place. Right now it's emails, my spreadsheet, Ola's spreadsheet, the buyers have their own notes...
+[01:42] Irene: One place. Good.
+[01:44] Tomasz: Can I, just on scope, because last time we did a "small" tool it became the whole ERP. Can we start with a couple of suppliers?
+[01:52] Marta: Yes. I'd say Baltic Pack and Norden Clean. That's where the money is.
+[01:57] Tomasz: So for the first month, pilot on those two only?
+[02:00] Marta: Yes. Let's decide that. Baltic Pack and Norden Clean, first month, nothing else.
+[02:05] Irene: Noted, pilot scope two suppliers.
+[02:09] Ola: Sorry, can I, the small ones. If we flag every five-grosz difference, we drown. Last month I had like three hundred lines with tiny differences, rounding mostly.
+[02:20] Marta: Right, we need a threshold.
+[02:22] Irene: What number would you trust?
+[02:25] Ola: Fifty zloty per line? Under fifty we just accept, over fifty we look at it.
+[02:31] Marta: Fifty per line, yes. Let's go with that for now. Under fifty PLN per line, auto-accepted.
+[02:36] Tomasz: Per line, not per invoice.
+[02:38] Marta: Per line.
+[02:40] Irene: Okay, tolerance fifty PLN per line. I'll write that down as a decision.
+[02:46] Tomasz: Where do the discrepancies live? Because if the answer is "another spreadsheet"...
+[02:51] Marta: No. One shared screen. The team, the buyers, everybody looks at the same list. No more emails with attachments.
+[02:58] Ola: But during the pilot I keep my spreadsheet. Just in case. I'm not, um, I'm not giving it up on day one.
+[03:04] Marta: That's fair. Shared screen is the main thing, Ola's spreadsheet stays as backup during the pilot.
+[03:10] Irene: Decision: one shared discrepancy screen, Excel stays as backup during the pilot. Got it.
+[03:16] Tomasz: Okay, process side. Irene, you own the requirements?
+[03:19] Irene: Yes, I'll own the BRD. I can have a first draft by, let me see, the twenty-eighth? Wednesday the twenty-eighth.
+[03:27] Tomasz: Twenty-eighth October, fine. And I'll register it as a change request in the tracker. I'll do it, uh, Friday. Sixteenth.
+[03:35] Marta: So Irene owns the BRD, Tomasz owns the CR. That's how we do it.
+[03:39] Irene: Yes.
+[03:41] Tomasz: Good. Off topic, but did anyone see the parking email? They're repainting the lines on Saturday, so don't leave your car there.
+[03:48] Ola: I'm on the train every day, I don't care.
+[03:50] Marta: Lucky you. Okay, back.
+[03:53] Irene: I need data. Ola, can you send me the mismatch log? Like, the last three months?
+[03:58] Ola: The last three months, yes. By Friday? Friday the sixteenth.
+[04:03] Irene: Perfect.
+[04:05] Irene: And a question I don't know the answer to. Can the ERP export purchase-order lines automatically? Like every day? Or is someone exporting it by hand?
+[04:14] Marta: By hand. Ola does it. Whether it can be automatic, I honestly don't know. That's an IT question.
+[04:20] Tomasz: Let's park it as an open question. Nobody here knows.
+[04:24] Irene: Open question: can ERP export PO lines automatically, daily.
+[04:29] Marta: Another thing. If we find a mismatch before payment, can we actually hold the payment? Because finance might say no, the contract says thirty days, we pay in thirty days.
+[04:40] Tomasz: That's important. If we can't hold payment, the whole thing is just a nicer report.
+[04:45] Marta: I'll check with finance. I'll confirm by the twentieth. Tuesday.
+[04:50] Irene: Marta, confirm with finance whether payment holds are allowed, by the twentieth.
+[04:55] Ola: Can I add one? It'd help Irene. I can make a list of the top ten suppliers by number of mismatches. So we know if the pilot two are really the top.
+[05:04] Irene: Yes please. When?
+[05:06] Ola: Also by the twentieth.
+[05:08] Irene: Great.
+[05:10] Irene: Who closes a discrepancy? Like when it's resolved, who clicks "done"? Is it your team, Marta, or the buyer who placed the order?
+[05:18] Marta: Hm. Today it's us. But really the buyer should, they talk to the supplier. I don't know. I don't want to decide that without the purchasing head.
+[05:28] Irene: Open question then. Who closes a discrepancy: reconciliation or the buyer.
+[05:33] Tomasz: There's one more, the German invoices. They're in euro. When we compare to the PO, do we convert at the invoice date rate or the payment date rate?
+[05:41] Marta: Good question. The PO is in euro too, I think. But for reporting in zloty...
+[05:46] Ola: Finance uses the invoice date, I think? NBP rate. But I'm not sure.
+[05:50] Irene: Let's not guess. Open question: EUR conversion at invoice date or payment date.
+[05:56] Tomasz: Risks. Let me be the pessimist. Month-end. Your team is dead the last week of the month. If we need you for testing then, it won't happen.
+[06:05] Marta: Correct. Last week of the month, forget it. Nobody has time.
+[06:09] Irene: Risk: team has no capacity in the last week of each month.
+[06:13] Tomasz: And IT told me the ERP upgrade is planned for December. If the export format changes, whatever we build on it breaks.
+[06:20] Ola: Oh no. Every time.
+[06:22] Irene: Risk: ERP export format may change after the December upgrade.
+[06:27] Irene: Okay. Last thing, I'll set up a follow-up call to go through the data Ola sends. Wednesday the twenty-first?
+[06:34] Marta: Works.
+[06:35] Tomasz: Works.
+[06:36] Irene: I'll book it. Twenty-first October.
+[06:39] Ola: Sorry, the train is going into a tunnel, I might drop.
+[06:42] Tomasz: Let's wrap. Thanks all.
+[06:44] Marta: Thanks. And thank you Irene, really. Two and a half days, every month. I want those days back.
+[06:50] [recording ends]
